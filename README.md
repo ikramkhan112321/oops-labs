@@ -1,2 +1,2 @@
-# oopss-labs
-My 5th semester oopss labs
+# oops-labs
+My 5th semester oops labs
